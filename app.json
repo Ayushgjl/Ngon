@@ -1,0 +1,12 @@
+{
+  "name": "Ngon",
+  "displayName": "Ngon",
+  "expo": {
+    "name": "Ngon",
+    "slug": "Ngon",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
